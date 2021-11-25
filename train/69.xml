@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>69.jpg</filename>
+	<path>C:\Users\Povelitel\Desktop\content\train\69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3117</width>
+		<height>2043</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>graphite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>251</ymin>
+			<xmax>3022</xmax>
+			<ymax>1948</ymax>
+		</bndbox>
+	</object>
+</annotation>
